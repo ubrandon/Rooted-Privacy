@@ -64,6 +64,15 @@ code {
   font-family: "Fira Mono", "Consolas", "Menlo", monospace;
 }
 
+.last-updated {
+  margin-top: 32px;
+  padding-top: 24px;
+  border-top: 1px solid #232b3a;
+  text-align: center;
+  color: #64748b;
+  font-size: 0.9rem;
+}
+
 /* Responsive styles */
 @media (max-width: 700px) {
   .container {
